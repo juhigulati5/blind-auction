@@ -1,1 +1,1 @@
-# blind-auction
+This code collects the names and bids of different people and adds them to a dictionary. The screen clears after each bidder inputs their information. At the end, after everyone had made their bid, the code declares the winner of the auction and their winning bid.
